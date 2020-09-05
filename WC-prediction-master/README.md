@@ -12,7 +12,7 @@ These goals present a unique real-world Machine Learning prediction problem and 
 
 ## Data
 
-I used data sets from Kaggle - Results of the matches since 1975 and 2017. 
+I used data sets from Kaggle  
 
 ## Environment and tools
 
