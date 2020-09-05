@@ -33,6 +33,3 @@ Random Forest was the winner with a training accuracy of 70 % and test accuracy 
 
 `jupyter notebook`
 
-## References
-
-1. https://towardsdatascience.com/using-machine-learning-to-simulate-world-cup-matches-959e24d0731
